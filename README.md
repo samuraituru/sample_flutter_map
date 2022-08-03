@@ -1,17 +1,19 @@
 # sample_flutter_map
 
-A new Flutter project.
+2つのパッケージを比較するためのプロジェクトです。\
+ここでは「flutter_map」パッケージのサンプルアプリを公開します。
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# sample_flutter_map
+## 比較基準
+- 現在地を表示できるか
+- 現在地の表示アイコンを変更できるか
+- 現在向いている方角を表示できるか
+- 任意の場所にピンを立てることができるか
+- ピンのアイコンは変更可能か
+- ピンの大きさは変更可能か
+- 地図そのものの見た目を柔軟に変更できるか
+    - 夜の雰囲気を出せる色合いに変更可能か
+    - 地形などの表示内容をデフォルメ可能か
+    - 地形情報などをできるだけ削ぎ落とした白地図のような形にできるか
+- 料金がどのくらいかかるか
+- ピンを立てることや地図利用そのものに料金は発生するか
+- パッケージのAPIは使いやすいか
